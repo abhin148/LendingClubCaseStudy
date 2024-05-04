@@ -10,27 +10,27 @@
 
 ## General Information
 
-####- Business Problem
+#### Business Problem
  
 > Lending loans to ‘risky’ applicants is the largest source of financial loss
 > (called credit loss). The credit loss is the amount of money lost by the lender 
 > when the borrower refuses to pay or runs away with the money owed. 
-
+>
 > The main objective is to be able to identify these risky loan applicants, 
 > then such loans can be reduced thereby cutting down the amount of credit loss. 
 > Identification of such applicants using EDA is the aim of this case study. 
-
+>
 > Perform an analysis to understand the driving factors (or driver variables)
 > behind loan default, i.e.the variables which are strong indicators of default.  
 > The company can utilise this knowledge for its portfolio and risk assessment.
 
-####- Data Set
+#### Data Set
 
 > The Data Set is CSV file which has past loan applicants and whether they ‘defaulted’ or not. Data Dictionary is also provided for understanding the data terminologies.
 
 
 ## Conclusions
--  
+ 
 > After completing exploratory data analysis, we 
 > came to conclusion that following features does 
 > have impact on Loan defaulters (charged-off) :
